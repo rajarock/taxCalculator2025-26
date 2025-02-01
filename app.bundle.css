@@ -17,3 +17,8 @@ body {
   font-size: 0.75rem;
   color:rgb(150, 67, 35);
 }
+
+footer {
+  position: fixed;
+  bottom: 5%;
+}
