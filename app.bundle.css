@@ -1,0 +1,19 @@
+* {
+  margin: 5px;
+  padding: 0px;
+}
+
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #c9dddb;
+  font-family: "Abel", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color:rgb(0, 70, 102) 
+}
+.ro-disclaimer {
+  font-size: 0.75rem;
+  color:rgb(150, 67, 35);
+}
