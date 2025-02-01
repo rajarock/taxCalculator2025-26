@@ -4,22 +4,29 @@
 }
 
 
-body {
+body, input {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #c9dddb;
+  background: border-box;
   font-family: "Abel", sans-serif;
   font-weight: 400;
   font-style: normal;
-  color:rgb(0, 70, 102) 
+  color: rgb(4, 74, 107);
+  border-color: #9b8c76;
 }
+input {
+  font-weight: bold;
+}
+
 .ro-disclaimer {
   font-size: 0.75rem;
-  color:rgb(150, 67, 35);
+  color: rgb(150, 67, 35);
 }
+
 .tax-disclaimer {
   font-size: 0.625rem;
 }
+
 
 .tax-table {
   font-size: 0.625rem;
@@ -27,6 +34,7 @@ body {
   border: 1px solid gray;
 }
 
-.tax-table td, .tax-table th {
+.tax-table td,
+.tax-table th {
   padding: 0.25rem;
 }
