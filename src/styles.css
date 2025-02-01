@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  padding: 30px;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+input {
+  margin: 0 10px;
+  width: 50px;
+}
+
+.inputGroup {
+  margin: 20px 0;
+}
+
+h2,
+h3 {
+  font-weight: normal;
+}
