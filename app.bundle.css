@@ -17,8 +17,21 @@ body {
   font-size: 0.75rem;
   color:rgb(150, 67, 35);
 }
+.tax-disclaimer {
+  font-size: 0.625rem;
+}
 
 footer {
   position: fixed;
   bottom: 5%;
+}
+
+.tax-table {
+  font-size: 0.625rem;
+  margin: 0.625rem;
+  border: 1px solid gray;
+}
+
+.tax-table td, .tax-table th {
+  padding: 0.25rem;
 }
