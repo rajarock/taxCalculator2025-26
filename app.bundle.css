@@ -21,11 +21,6 @@ body {
   font-size: 0.625rem;
 }
 
-footer {
-  position: fixed;
-  bottom: 5%;
-}
-
 .tax-table {
   font-size: 0.625rem;
   margin: 0.625rem;
